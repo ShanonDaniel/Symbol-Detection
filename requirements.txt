@@ -1,0 +1,6 @@
+opencv-contrib-python
+pillow
+imutils
+imagehash
+pytesseract
+scikit-image
