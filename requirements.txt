@@ -4,3 +4,4 @@ imutils
 imagehash
 pytesseract
 scikit-image
+albumentations
